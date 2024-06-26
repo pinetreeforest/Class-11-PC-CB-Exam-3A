@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="FA9F90A9-90A9-4C60-8193-5729436BE666" version="0">
+	<info>
+		<title>Exam 3A</title>
+		<description/>
+	</info>
+	<files index="id35" thumbnail="id31" totalSize="2480682">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/html5-unsupported.html</file>
+		<file id="id8">data/html5.png</file>
+		<file id="id9">data/images/img-13ad266566ae501ec90148714369d8748a3f064d.jpg</file>
+		<file id="id10">data/images/img-1c0170b375b4a6f315cb33ed99289b9eda94595c.png</file>
+		<file id="id11">data/images/img-249398da2dae0463a19425b7e865cb5d26b77feb.png</file>
+		<file id="id12">data/images/img-2ef82929a2d8b20480cff392a7aa769a03a38fed.png</file>
+		<file id="id13">data/images/img-33739ee2ae6ffdb3902872ada3ff8b4172c73789.jpg</file>
+		<file id="id14">data/images/img-4bfffc7be811303be0f50dae8b4e3b3e21c39e96.png</file>
+		<file id="id15">data/images/img-4c0c77a2d300c004a9761a17d4a295406591fe0a.png</file>
+		<file id="id16">data/images/img-595203ed7bf427355434d6efe5c26ff70c2339fd.png</file>
+		<file id="id17">data/images/img-5aad4c022cb86ef8047351af225fdce124346b2c.png</file>
+		<file id="id18">data/images/img-647b9b56827419bcb32e23b520c22666aae65b6d.png</file>
+		<file id="id19">data/images/img-66747b6c67ac0ffea47c081db353192fd2eaef20.png</file>
+		<file id="id20">data/images/img-7fc3dfdd02e5d40f1db79f15ff16c6f5e5dfa160.png</file>
+		<file id="id21">data/images/img-8ff2c1996bde018666607e4b6bd0676273a0115b.png</file>
+		<file id="id22">data/images/img-b004eff63e3e2f25c414f5e21ab6b02a2d22fef7.png</file>
+		<file id="id23">data/images/img-c23fdc5847ed596522c9ef5bcf719366ff256e1f.jpg</file>
+		<file id="id24">data/images/img-dbfe17902d791ed1033268065baacade30ab9928.jpg</file>
+		<file id="id25">data/images/img-e209900775c66d5d4ec9f83d77540b91e851d009.png</file>
+		<file id="id26">data/images/img-e6c7085c6d16fb80352deceda96c0b1efa92350a.png</file>
+		<file id="id27">data/images/img-eec585ec77f1efe2d79725e287f228517014f3e6.png</file>
+		<file id="id28">data/images/img-ff51e616018fc8917cb31a3fd971541828176ca0.png</file>
+		<file id="id29">data/ismplayer/app_store2x.png</file>
+		<file id="id30">data/ismplayer/play.svg</file>
+		<file id="id31">data/ismplayer/preview.png</file>
+		<file id="id32">data/ismplayer/style.css</file>
+		<file id="id33">data/ismplayer/style_mini.css</file>
+		<file id="id34">data/player.js</file>
+		<file id="id35">index.html</file>
+		<file id="id36">ismplayer.html</file>
+		<file id="id37">preview.png</file>
+	</files>
+</presentation>
+
